@@ -1,47 +1,53 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Natalia Sidorova
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Natalia
+last_name: Sidorova
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student IT
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Peoples' Friendship University of Russia
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data processing and visualization, Python programming, computer games and reading classical and scientific literature.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Python and C++ programming
+  - Computer games
+  - Data processing and visualization
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: C++ programming
+      institution: Peoples' Friendship University of Russia
+      year: 2022
+    - course: SQL in data processing
+      institution: Peoples' Friendship University of Russia
+      year: 2022
+    - course: SQL
+      institution: Sololearn
+      year: 2023
+    - course: Intermediate Python
+      institution: Sololearn
+      year: 2023
+    - course: Python for Beginners
+      institution: Sololearn
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +80,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'nsmails@mail.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Natalia Sidorova is a student of Peoples' Friendship University of Russia. Her research interests include data processing and visualization, Python programming, computer games and reading classical and scientific literature. She plans to become a data analyst.
 {style="text-align: justify;"}
